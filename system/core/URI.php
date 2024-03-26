@@ -50,7 +50,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
  * @link		https://codeigniter.com/userguide3/libraries/uri.html
  */
 #[\AllowDynamicProperties]
-class CI_URI {
+ class CI_URI {
 
 	/**
 	 * List of cached URI segments
